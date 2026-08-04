@@ -1,4 +1,4 @@
-# 🛢️ FuzzyOil — Cooking Oil Price Prediction with Fuzzy Logic
+# FuzzyOil — Cooking Oil Price Prediction with Fuzzy Logic
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?logo=streamlit&logoColor=white)
